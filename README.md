@@ -48,3 +48,9 @@ Right now it just wraps `remote-system-maintenance`, but it gives you clear cate
 ## Documentation
 
 See [remote-system-maintenance plugin](../remote-system-maintenance/) for complete maintenance procedures.
+
+---
+
+If this saved you from a maintenance headache, a ⭐ helps us know it's landing.
+
+Built by [2389](https://2389.ai) · Part of the [Claude Code plugin marketplace](https://github.com/2389-research/claude-plugins)
