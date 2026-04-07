@@ -5,6 +5,7 @@ Meta-plugin for system administration workflows on Linux systems.
 ## Installation
 
 ```bash
+/plugin marketplace add 2389-research/claude-plugins
 /plugin install sysadmin@2389-research
 ```
 
